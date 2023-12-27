@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509458762127",
+    "project_id": "uter-99d61",
+    "storage_bucket": "uter-99d61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509458762127:android:c5457ff64e697ada71e3fa",
+        "android_client_info": {
+          "package_name": "com.example.uteer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509458762127-cc8bmbuvj2ov6ov72l0ok6rhibugp87l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCqwrhnqm-m8RWRfpf9X008oXb66oWd2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509458762127-cc8bmbuvj2ov6ov72l0ok6rhibugp87l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

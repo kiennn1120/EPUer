@@ -1,0 +1,8 @@
+{
+  "@@locale": "en",
+  "appName": "Hi+BOSS",
+  "invalidEmail": "Invalid email format",
+  "invalidPhone": "Invalid phone number",
+  "emailNotFound": "Email not found",
+  "phoneNotFound": "Phone number not found"
+}
