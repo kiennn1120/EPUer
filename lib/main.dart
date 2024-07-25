@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
     DimensManager();
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'UTEer',
+      title: 'EPUer',
       themeMode: ThemeMode.light,
       theme: ThemeData(fontFamily: 'Nunito'),
       initialRoute: RoutesName.splash,
